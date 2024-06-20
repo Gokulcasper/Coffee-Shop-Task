@@ -423,3 +423,12 @@ body {
     text-align: center;
   }
 }
+
+@media screen and (max-width: 450px) {
+
+.testimonials {
+  font-size: 13px;
+box-sizing: border-box;
+padding: 10px;
+}
+}
