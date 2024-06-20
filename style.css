@@ -373,34 +373,21 @@ body {
     display: none;
   }
 
-  /* .iconsNav{
+  .iconsNav{
     display: none;
-} */
+}
   .navbar {
     /* justify-content: unset;*/
     background-color: white;
     opacity: 0.8;
-    justify-content: center;
+    justify-content:start;
     height: 75px;
   }
   .search-icon {
     display: none;
   }
 
-  /* .logoNav img{
-    position: fixed;
-    right: 350px;
-    top: 38px;
-} */
 
-  .account-icon {
-    position: fixed;
-    left: 0px;
-  }
-  .cart-icon {
-    position: fixed;
-    right: 0px;
-  }
 
   .img-List img {
     height: 250px;
